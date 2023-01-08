@@ -1,6 +1,5 @@
 [
   {
-    "$type": "ModListMetadata, Wabbajack.Lib",
     "title": "Begin Again",
     "description": "Begin Again is a lightweight modlist focused on bringing the gameplay feel of later Fallout titles into Fallout 3 and New vegas. Whilst being careful to preserve what made those games unique.",
     "author": "SpringHeelJon",
@@ -8,6 +7,7 @@
       "github/SpringHeelJon"
     ],
     "game": "falloutnewvegas",
+    "official": false,
     "tags": [
       "Nevernude",
       "Lightweight",
@@ -15,25 +15,27 @@
       "Vanilla Plus"
     ],
     "nsfw": false,
+    "utility_list": false,
     "image_contains_title": true,
     "force_down": false,
     "links": {
-      "$type": "Links, Wabbajack.Lib",
       "image": "https://hosting.photobucket.com/images/l637/Jon_Keatley/logo_WJ_title.png",
       "readme": "https://www.nexusmods.com/newvegas/mods/79547",
-      "download": "https://authored-files.wabbajack.org/Begin%20Again.wabbajack_33115f30-446a-4313-90d1-224b4864db53",
+      "download": "https://authored-files.wabbajack.org/Begin Again.wabbajack_ffba7968-5426-476f-9175-c0f5fe5d02ba",
       "machineURL": "beginagain",
       "discordURL": "https://discord.gg/GBVzYjF6"
     },
     "download_metadata": {
-      "Hash":"7kM3mQbfMsA=",
-      "Size":7785136,
-      "NumberOfArchives":406,
-      "SizeOfArchives":12338052206,
-      "NumberOfInstalledFiles":20677,
-      "SizeOfInstalledFiles":20527436800
+      "Hash": "+BBmUqwtTRs=",
+      "Size": 7793339,
+      "NumberOfArchives": 406,
+      "SizeOfArchives": 12344642491,
+      "NumberOfInstalledFiles": 20759,
+      "SizeOfInstalledFiles": 20517766103
     },
-    "version": "1.2"
+    "version": "1.2.1",
+    "dateCreated": "1970-01-01T00:00:00Z",
+    "dateUpdated": "2023-01-08T16:16:25.7450055Z",
+    "repositoryName": ""
   }
 ]
-
