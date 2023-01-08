@@ -1,0 +1,39 @@
+[
+  {
+    "$type": "ModListMetadata, Wabbajack.Lib",
+    "title": "Begin Again",
+    "description": "Begin Again is a lightweight modlist focused on bringing the gameplay feel of later Fallout titles into Fallout 3 and New vegas. Whilst being careful to preserve what made those games unique.",
+    "author": "SpringHeelJon",
+    "maintainers": [
+      "github/SpringHeelJon"
+    ],
+    "game": "falloutNV",
+    "tags": [
+      "Nevernude",
+      "Lightweight",
+      "Lore-Friendly",
+      "Vanilla Plus"
+    ],
+    "nsfw": false,
+    "image_contains_title": true,
+    "force_down": false,
+    "links": {
+      "$type": "Links, Wabbajack.Lib",
+      "image": "https://hosting.photobucket.com/images/l637/Jon_Keatley/logo_WJ_title.png",
+      "readme": "https://www.nexusmods.com/newvegas/mods/79547",
+      "download": "https://authored-files.wabbajack.org/Halgaris Helper.wabbajack_29d245c9-5f7f-4394-b600-a22e43427337",
+      "machineURL": "beginagain",
+      "discordURL": "https://discord.gg/GBVzYjF6"
+    },
+    "download_metadata": {
+      "Hash":"7kM3mQbfMsA=",
+      "Size":7785136,
+      "NumberOfArchives":406,
+      "SizeOfArchives":12338052206,
+      "NumberOfInstalledFiles":20677,
+      "SizeOfInstalledFiles":20527436800
+    },
+    "version": "1.2"
+  }
+]
+
