@@ -7,8 +7,9 @@
       "github/SpringHeelJon"
     ],
     "game": "falloutnewvegas",
-    "official": false,
+    "official": true,
     "tags": [
+      "Official",
       "Nevernude",
       "Lightweight",
       "Lore-Friendly",
