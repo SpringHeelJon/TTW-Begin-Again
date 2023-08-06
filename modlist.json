@@ -22,21 +22,21 @@
     "links": {
       "image": "https://hosting.photobucket.com/images/l637/Jon_Keatley/logo_WJ_title_new.png",
       "readme": "https://www.nexusmods.com/newvegas/mods/79547",
-      "download": "https://authored-files.wabbajack.org/Begin Again.wabbajack_5ecfdbba-6aba-4674-8ad8-1ef53ffc44c0",
+      "download": "https://authored-files.wabbajack.org/Begin Again.wabbajack_e7860c6b-cb91-4d3e-87c8-170b3624dde9",
       "machineURL": "beginagain",
       "discordURL": "https://discord.gg/GBVzYjF6"
     },
     "download_metadata": {
-      "Hash": "gpeUhCmKDOI=",
-      "Size": 115600054,
-      "NumberOfArchives": 532,
-      "SizeOfArchives": 19541302107,
-      "NumberOfInstalledFiles": 16798,
-      "SizeOfInstalledFiles": 17118596193
+      "Hash": "u38+C5VY22Q=",
+      "Size": 68025131,
+      "NumberOfArchives": 534,
+      "SizeOfArchives": 19630568348,
+      "NumberOfInstalledFiles": 17284,
+      "SizeOfInstalledFiles": 18301329583
     },
-    "version": "2.0.2",
+    "version": "2.1.0",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2023-07-15T20:36:41.2513383Z",
+    "dateUpdated": "2023-08-06T15:51:15.2308846Z",
     "repositoryName": ""
   }
 ]
