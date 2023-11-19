@@ -18,25 +18,26 @@
     "nsfw": false,
     "utility_list": false,
     "image_contains_title": true,
+    "DisplayVersionOnlyInInstallerView": false,
     "force_down": false,
     "links": {
       "image": "https://hosting.photobucket.com/images/l637/Jon_Keatley/logo_WJ_title_new.png",
       "readme": "https://www.nexusmods.com/newvegas/mods/79547",
-      "download": "https://authored-files.wabbajack.org/Begin Again.wabbajack_c79dbb4f-2ced-437b-844c-3c4f5d2f54c4",
+      "download": "https://authored-files.wabbajack.org/Begin Again.wabbajack_9f7cb62a-1f8c-4001-b71a-65b0544dc1d1",
       "machineURL": "beginagain",
       "discordURL": "https://discord.gg/GBVzYjF6"
     },
     "download_metadata": {
-      "Hash": "6OwcNZ2auCI=",
-      "Size": 67866833,
-      "NumberOfArchives": 541,
-      "SizeOfArchives": 20026177792,
-      "NumberOfInstalledFiles": 17307,
-      "SizeOfInstalledFiles": 18332665625
+      "Hash": "r7JJzZOr87o=",
+      "Size": 41634227,
+      "NumberOfArchives": 555,
+      "SizeOfArchives": 12413093941,
+      "NumberOfInstalledFiles": 16773,
+      "SizeOfInstalledFiles": 19562599717
     },
-    "version": "2.2.0",
+    "version": "2.3.0",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2023-09-07T12:09:07.8954723Z",
+    "dateUpdated": "2023-11-19T22:45:00.0450205Z",
     "repositoryName": ""
   }
 ]
