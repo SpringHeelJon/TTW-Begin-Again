@@ -27,7 +27,12 @@
       "machineURL": "beginagain",
       "discordURL": "https://discord.gg/GBVzYjF6",
       "websiteURL": "",
-      "nexusCollection": null
+      "nexusCollection": {
+        "collectionId": "427971",
+        "slug": "lyhfcu",
+        "domainName": "newvegas",
+        "lastRevisionNumber": 1
+      }
     },
     "download_metadata": {
       "Hash": "M9LhB458LHM=",
